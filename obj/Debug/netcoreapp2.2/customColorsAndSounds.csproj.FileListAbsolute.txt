@@ -1,0 +1,11 @@
+/Users/dominickantrude/workspace/csharp/exercises/CustomColorsandSounds/obj/Debug/netcoreapp2.2/customColorsAndSounds.csprojAssemblyReference.cache
+/Users/dominickantrude/workspace/csharp/exercises/CustomColorsandSounds/obj/Debug/netcoreapp2.2/customColorsAndSounds.csproj.CoreCompileInputs.cache
+/Users/dominickantrude/workspace/csharp/exercises/CustomColorsandSounds/obj/Debug/netcoreapp2.2/customColorsAndSounds.AssemblyInfoInputs.cache
+/Users/dominickantrude/workspace/csharp/exercises/CustomColorsandSounds/obj/Debug/netcoreapp2.2/customColorsAndSounds.AssemblyInfo.cs
+/Users/dominickantrude/workspace/csharp/exercises/CustomColorsandSounds/bin/Debug/netcoreapp2.2/customColorsAndSounds.deps.json
+/Users/dominickantrude/workspace/csharp/exercises/CustomColorsandSounds/bin/Debug/netcoreapp2.2/customColorsAndSounds.runtimeconfig.json
+/Users/dominickantrude/workspace/csharp/exercises/CustomColorsandSounds/bin/Debug/netcoreapp2.2/customColorsAndSounds.runtimeconfig.dev.json
+/Users/dominickantrude/workspace/csharp/exercises/CustomColorsandSounds/bin/Debug/netcoreapp2.2/customColorsAndSounds.dll
+/Users/dominickantrude/workspace/csharp/exercises/CustomColorsandSounds/bin/Debug/netcoreapp2.2/customColorsAndSounds.pdb
+/Users/dominickantrude/workspace/csharp/exercises/CustomColorsandSounds/obj/Debug/netcoreapp2.2/customColorsAndSounds.dll
+/Users/dominickantrude/workspace/csharp/exercises/CustomColorsandSounds/obj/Debug/netcoreapp2.2/customColorsAndSounds.pdb
